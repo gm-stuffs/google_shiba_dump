@@ -1,0 +1,14 @@
+# shiba-user 14 AP2A.240705.005 11942872 release-keys
+- manufacturer: google
+- platform: zuma
+- codename: shiba
+- flavor: shiba-user
+- release: 14
+- id: AP2A.240705.005
+- incremental: 11942872
+- tags: release-keys
+- fingerprint: google/shiba/shiba:14/AP2A.240705.005/11942872:user/release-keys
+- is_ab: true
+- brand: google
+- branch: shiba-user-14-AP2A.240705.005-11942872-release-keys
+- repo: google_shiba_dump
